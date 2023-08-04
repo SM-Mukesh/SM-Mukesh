@@ -2,11 +2,11 @@
 <h3 align="center">A Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://lh4.googleusercontent.com/dFlNyPlSE3Rb2LEaIRtNPiJEhBo6tDMbTPuYJde-oBI7Fu0leEutCShvNglG4jjRBGlOIJu1lCoZMD2wU643RQepUcrPguJyNCJPXOyGgE5zU5iMKbY2hjwpYxkl9l-VHHt5pkAKi7hP1_ikSBDFieo">
 
-- 🌱 I’m currently learning **Data Analytics and Data Science(Machine Learning ,Deep Learning ,Artificial Intelligence)**
+- 🌱 I’m currently working as **AI & ML Engineer at ShellKode**
 
-- 👯 I’m looking to collaborate on **Python ,Machine Learning ,Deep Learning Projects**
+- 👯 If you are looking to collaborate on **Python ,Machine Learning ,Deep Learning, Generative AI Projects** reach me in Linkedin or Gmail
 
-- 📫 How to reach me **mukeshsamy9@gmail.com**
+- 📫  Reach me at **Gmail - mukeshsamy9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
